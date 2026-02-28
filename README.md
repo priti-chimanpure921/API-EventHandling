@@ -48,3 +48,15 @@ Update the DOM with the results.
 📍Implemented in: app37.js
 📌 HTML Structure: Input field + Search button + list to show results.
 👉 Enter a state/keyword and click Search.
+
+# 📌 Learnings & Skills
+
+By building this project you’ll learn:
+
+How to handle DOM events (like button clicks)
+
+How to make HTTP requests using axios
+
+How to display API results using the DOM
+
+How to handle responses and errors
